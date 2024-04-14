@@ -10,4 +10,4 @@ C# + PYTHON
 - pyinstaller 로 빌드해도 위 같은 에러는 똑같은 방법으로 처리 시켜 주면 됨
 
 
-- 녹화본임(https://youtu.be/dcLJMXo6F4k) 나중에 사기도 칠 수 있을지도?
+- 녹화본임[https://youtu.be/dcLJMXo6F4k] 나중에 사기도 칠 수 있을지도?
