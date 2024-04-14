@@ -1,6 +1,9 @@
 # Fake-Robux-Tool-GUI
 C# + PYTHON
 
+**나는 바이러스 심거나 사기치라고 얘기 안 함 알아서 수정해서 써도 되는데 괜히 했다가 걸려서 경찰서 가거나 해도 내 책임 아님 ㅋ**
+
+*재미로만 알아서 적당히 가지고 놀아요*
 
 - playwright 로 html 값 수정하는 원리라 exe 빌드 후 크롬.exe 파일을 찾을 수 없다고 뜨면 빌드 된 폴더에 들어가서
 - lib\playwright\driver\package 경로에  '.local-browsers\chromium-XXXX'\chrome-win\chrome.exe 를 추가하면 되는데 여기서 크로미옴-XXXX 에서 XXXX는 버전에 맞게 폴더 만들면 됨
