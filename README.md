@@ -8,3 +8,6 @@ C# + PYTHON
 
 - 나 같은 경우 cx_freeze 로 파이썬 소스를 exe로 변환시켜서 pyinstaller 이나 cx_freeze 둘 중 아무거나 빌드 해서 사용해주면 되는데 pyinstaller 은 원파일로 빌드하면 오류 나니까 꼭 playwright 폴더가 생기게 같이 빌드 해줘야 함
 - pyinstaller 로 빌드해도 위 같은 에러는 똑같은 방법으로 처리 시켜 주면 됨
+
+
+- 녹화본임(https://youtu.be/dcLJMXo6F4k) 나중에 사기도 칠 수 있을지도?
