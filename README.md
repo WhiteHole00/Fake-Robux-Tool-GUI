@@ -7,7 +7,9 @@ C# + PYTHON
 
 
 ```
-# pyinstaller 또는 cx_freeze 로 파이썬 소스 exe 로 빌드하고 실행 했을때 특정 경로 폴더에 chrome.exe 또는 타 브라우저 실행 파일이 없다고 뜨면 이렇게 해결 하면 됨
+# pyinstaller 또는 cx_freeze 로 파이썬 소스 exe 로 빌드하고 실행 했을때 특정 경로 폴더에 chrome.exe 또는 타 브라우저 실행 파일이 없다고 뜨는 playwright 에러가 뜨면 밑에 방법으로 해결하면 됨
+
+# 오류가 뜰 수 있으니 cmd에 빌드한이름.exe 에 (exe이름).exe  만 치면 exe 실행되니까 오류 확인 하면 되고 모르겠으면 여기다 질문
 
 
 - playwright 로 html 값 수정하는 원리라 exe 빌드 후 크롬.exe 파일을 찾을 수 없다고 뜨면 빌드 된 폴더에 들어가서
